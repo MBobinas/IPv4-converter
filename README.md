@@ -30,7 +30,7 @@ Firstly we have to access Publish folder, which is in this path: TeltonikaBackEn
 ![CmdCompile](https://user-images.githubusercontent.com/60816697/189892084-fd254191-d5c8-4ac5-b045-9bd4be0b6a16.png)
 
 2. Now type `TeltonikaBackEndTask.exe` and press "Enter" (_step corresponds to number 1 in the picture_). 
-Or you can run the app by using the dotnet command: Enter `dotnet TeltonikaBackEndTask.dll` and press Enter (_step corresponds to number 4 in the picture).
+Or you can run the app by using the dotnet command: Enter `dotnet TeltonikaBackEndTask.dll` and press Enter (_step corresponds to number 4 in the picture_).
 ![Cmd](https://user-images.githubusercontent.com/60816697/189896124-f336be37-2554-46d6-adbf-3b5516b93a20.png)
 
 3. After this you can input two IPv4 addresses into the application (_first address (2) should not be greater than second one (3)_).
