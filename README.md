@@ -17,7 +17,7 @@ Application was built with C#.
 ## Getting started
 This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
-1. Download the project to your local enviroment.
+1. Download the project to your local environment.
 2. Open TeltonikaBackEndTask folder and find TeltonikaBackEndTask.sln file and open it.
 3. Compile the code like this ![Instruction](https://user-images.githubusercontent.com/60816697/189891193-1ea9f85f-7fec-438a-8ef9-000c468c2ce8.png "Code compilation")
 4. Enter mentioned IPv4 addresses in example section.
