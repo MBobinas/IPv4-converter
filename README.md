@@ -1,4 +1,4 @@
-# About the project (Teltonika-task) 
+# About the project (IPv4 addresses converter) 
 
 An application that allows user to input two different IPv4 addresses and get return the number of addresses between them (including the first one, excluding the last one). All inputs must be valid IPv4 addresses in the form of strings. The last address must be greater than the first one. This program works as linux terminam program, no linux or external modules/libraries/functions are used.
 
